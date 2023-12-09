@@ -1,0 +1,40 @@
+h3 {
+    margin-left: 15px;
+}
+
+.principal {
+    background-color: rgb(127, 179, 161);
+    padding-top: 20px;
+}
+.titulos {
+    width: 190px;
+    height: 30px;
+    font-weight: bold;
+}
+.tituloid {
+    width: 40px;
+
+}
+.trtotal {
+    width: 20px;
+}
+.trrealizadas {
+    width: 20px;
+}
+.tarea-label {
+    font-style: normal; 
+}
+  
+.tarea-label.cursiva {
+    font-style: italic; 
+}
+.tareastituloscontainer {
+    margin-left: 0px;
+}
+.contadorcontainer {
+    background-color: yellow;
+}
+.tareasrealizadas {
+    background-color: brown;
+}
+
